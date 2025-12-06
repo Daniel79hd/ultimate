@@ -1,4 +1,4 @@
-# ultimate
+# Ultimate - Database Testing Tool
 
 Database testing and connectivity verification tool.
 
